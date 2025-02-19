@@ -22,11 +22,11 @@
 ## ⚙️ **Tecnologías que utilizo**
 ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white&style=flat-square)
 ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat-square)
+![Typescript](https://img.shields.io/badge/-Typescript-blue?logo=typescript&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white&style=flat-square)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blueviolet?logo=kubernetes&logoColor=white&style=flat-square)
 ![Linux](https://img.shields.io/badge/-Linux-black?logo=linux&logoColor=white&style=flat-square)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-blue?logo=go&logoColor=white&style=flat-square)
 
 ---
 
