@@ -26,6 +26,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white&style=flat-square)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blueviolet?logo=kubernetes&logoColor=white&style=flat-square)
 ![Linux](https://img.shields.io/badge/-Linux-black?logo=linux&logoColor=white&style=flat-square)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ---
 
